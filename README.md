@@ -1,2 +1,2 @@
-# question-1-mapping-elections
+# Mapping US Presidential Election Results over Time
 group project
